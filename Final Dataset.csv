@@ -1,0 +1,301 @@
+Location,Postal_Code,Square_Feet,No_Of_Beds,No_Of_Washrooms,Faced,Faced_Id,Floors,Completion,Completion_Id,Price
+Chattogram,4000,1800,3,4,East,1,9,Ready,1,13200000
+Mirpur,1216,750,2,2,West,2,8,Ready,1,4000000
+Dhanmondi,1209,1280,3,3,North,3,8,Ready,1,7000000
+Niketon,1212,2100,3,3,East,1,7,Ready,1,20000000
+Aftab Nagar,1212,1900,4,4,North,3,8,Under Construction,0,12500000
+Chattogram,4000,1900,3,4,East,1,8,Ready,1,14300000
+Uttara,1230,2050,3,3,West,2,9,Ready,1,18500000
+Bashundhara,1229,2245,3,3,North,3,9,Ready,1,18500000
+Chattogram,4000,1450,3,3,North,3,11,Ready,1,8000000
+Middle Badda,1212,1250,3,3,East,1,8,Ready,1,7000000
+Kafrul,1206,2400,3,3,West,2,10,Ready,1,17000000
+Doniya,1236,1000,3,2,South,4,10,Ready,1,4000000
+Banani,1213,1714,3,3,East,1,11,Ready,1,22500000
+Khilgaon,1219,1188,3,3,East,1,9,Ready,1,6200000
+Baridhara,1212,1557,3,3,West,2,10,Ready,1,13500000
+Banasree,1219,820,2,2,South,4,8,Ready,1,4600000
+Mohakhali DOHS,1212,2750,3,3,West,2,10,Ready,1,38000000
+Bashundhara,1229,1600,3,3,North,3,9,Ready,1,12000000
+Aftab Nagar,1212,1407,4,3,North,3,9,Ready,1,9800000
+Mohakhali,1212,1171,3,3,East,1,8,Ready,1,8200000
+Chattogram,4000,2024,4,4,West,2,11,Ready,1,19000000
+Chattogram,4000,1100,3,3,West,2,9,Ready,1,8000000
+Gulshan,1213,2200,3,3,North,3,10,Ready,1,28000000
+Dhanmondi,1209,1240,3,3,East,1,9,Ready,1,8000000
+Mirpur,1216,865,2,2,East,1,6,Ready,1,4500000
+Chattogram,4000,2286,3,3,North,3,8,Ready,1,18000000
+Bashundhara,1229,2670,4,3,West,2,10,Ready,1,23000000
+Middle Pirerbag,1216,1175,3,2,South,4,8,Under Construction,0,6000000
+Mirpur DOHS,1216,2200,4,3,West,2,7,Ready,1,20000000
+Chattogram,4000,1000,3,2,East,1,7,Ready,1,4200000
+Chattogram,4000,2350,3,4,West,2,13,Ready,1,15500000
+Gulshan,1213,2015,3,3,North,3,10,Ready,1,21000000
+Eskaton,1205,2075,3,3,South,4,10,Ready,1,27000000
+Middle Pirerbag,1216,1450,3,3,West,2,9,Under Construction,0,7000000
+Uttara,1230,1562,3,3,East,1,6,Ready,1,13000000
+Mirpur DOHS,1216,2150,3,3,West,2,7,Ready,1,17500000
+Mohakhali,1212,755,2,2,North,3,7,Ready,1,5500000
+Uttara,1230,1170,3,3,East,1,6,Ready,1,12000000
+Gulshan,1213,3495,5,5,North,3,6,Ready,1,46000000
+Badda,1212,1500,3,3,North,3,8,Under Construction,0,9812000
+Bashundhara,1229,1500,3,3,North,3,7,Ready,1,12000000
+Dakshin Khan,1230,1200,3,3,East,1,8,Ready,1,6000000
+Uttar Badda,1212,1253,3,3,North,3,8,Under Construction,0,7500000
+Uttara,1230,2097,3,3,West,2,9,Ready,1,20000000
+Hazaribag,1209,1100,2,3,East,1,6,Ready,1,6500000
+Dhanmondi,1209,1300,3,3,South,4,7,Ready,1,11500000
+Gulshan,1213,4735,3,4,South,4,10,Ready,1,67500000
+Chattogram,4000,1500,3,3,West,2,8,Ready,1,8800000
+Uttara,1230,1900,3,3,South,4,10,Ready,1,19900000
+Banasree,1219,1070,2,2,West,2,8,Ready,1,5700000
+Maghbazar,1217,1250,3,3,South,4,9,Ready,1,8700000
+Dhanmondi,1209,1050,3,2,North,3,7,Ready,1,8500000
+Banasree,1219,1700,3,3,South,4,6,Ready,1,11500000
+Merul Badda,1212,1500,3,3,North,3,8,Ready,1,9000000
+Dhanmondi,1209,1200,3,3,North,3,6,Ready,1,9000000
+Dhanmondi,1209,2212,3,4,South,4,6,Ready,1,28500000
+Bashundhara,1229,1256,3,3,North,3,9,Under Construction,0,8700000
+Dhanmondi,1209,1630,3,4,East,1,6,Ready,1,13000000
+Bashundhara,1229,3100,5,4,South,4,7,Ready,1,26000000
+Uttara,1230,1734,3,4,South,4,8,Ready,1,16000000
+Banani,1213,2211,3,3,North,3,6,Ready,1,25000000
+Lalbagh,1211,1150,3,3,East,1,8,Ready,1,6500000
+Bashundhara,1229,1265,3,3,South,4,8,Ready,1,9500000
+Uttara,1230,2004,3,3,West,2,9,Ready,1,16000000
+Banasree,1219,1100,3,3,North,3,7,Under Construction,0,6700000
+Kathalbagan,8430,1000,2,2,South,4,9,Ready,1,7500000
+Mohammadpur,1207,950,2,2,North,3,8,Ready,1,6800000
+Adabor,1207,2315,3,3,South,4,7,Ready,1,21500000
+Bashundhara,1229,1265,3,3,West,2,6,Ready,1,9500000
+Gulshan,1213,2906,4,3,South,4,6,Ready,1,45000000
+Dhanmondi,1209,2464,3,3,North,3,15,Ready,1,28900000
+Uttara,1230,1362,3,3,East,1,6,Ready,1,8200000
+Gulshan,1213,2030,3,3,South,4,6,Ready,1,24500000
+Eskaton,1205,650,3,2,West,2,4,Ready,1,4500000
+Lalbagh,1211,1200,3,3,East,1,8,Ready,1,6800000
+Merul Badda,1212,1400,3,4,North,3,8,Ready,1,8500000
+Aftab Nagar,1212,1460,3,3,North,3,6,Ready,1,10000000
+Uttar Badda,1212,1252,3,3,South,4,8,Ready,1,7000000
+Kathalbagan,8430,3217,5,7,North,3,14,Ready,1,35000000
+Dhanmondi,1209,3807,4,4,North,3,6,Ready,1,55000000
+Gulshan,1213,2600,4,4,North,3,6,Ready,1,31000000
+Mirpur,1216,819,2,2,East,1,7,Ready,1,3650000
+Bashundhara,1229,1745,3,3,North,3,8,Ready,1,13500000
+Turag,1230,1565,3,3,North,3,8,Ready,1,9000000
+Turag,1230,1615,3,3,North,3,8,Ready,1,9300000
+Kalabagan,1205,1250,3,2,West,2,6,Ready,1,11000000
+Adabor,1207,1450,3,3,West,2,11,Ready,1,9300000
+Mohammadpur,1207,920,2,2,East,1,8,Ready,1,6600000
+Bashundhara,1229,2000,3,4,North,3,11,Ready,1,15500000
+Banasree,1219,1500,3,2,North,3,6,Ready,1,12000000
+Mirpur,1216,1300,3,3,North,3,10,Ready,1,6700000
+Bashabo,1214,1100,3,3,North,3,8,Ready,1,4370000
+Bashundhara,1229,1650,3,3,North,3,9,Under Construction,0,12800000
+Bashundhara,1229,1500,3,4,South,4,9,Ready,1,11500000
+Mohammadpur,1207,1662,3,3,West,2,9,Ready,1,8800000
+Mirpur,1216,1000,3,2,East,1,7,Ready,1,4000000
+Turag,1230,1350,3,2,North,3,10,Ready,1,6900000
+Aftab Nagar,1212,1300,3,3,North,3,10,Ready,1,9500000
+Turag,1230,1150,3,2,North,3,10,Ready,1,6100000
+Bashundhara,1229,1110,3,2,North,3,8,Ready,1,6500000
+Bashundhara,1229,1600,3,3,South,4,7,Ready,1,12000000
+Bashundhara,1229,883,2,2,North,3,7,Ready,1,6800000
+Baridhara,1212,3450,4,3,North,3,8,Ready,1,69500000
+Bashundhara,1229,1500,3,3,North,3,7,Ready,1,12000000
+Adabor,1207,1600,3,3,West,2,8,Ready,1,12200000
+Uttara,1230,7400,13,10,West,2,4,Ready,1,70000000
+Uttara,1230,1760,3,3,East,1,9,Ready,1,21500000
+Dhanmondi,1209,1362,3,3,North,3,10,Ready,1,12000000
+Turag,1230,1350,3,2,North,3,10,Ready,1,6900000
+Adabor,1207,1310,3,3,West,2,7,Ready,1,5700000
+Turag,1230,1615,3,3,North,3,8,Ready,1,9300000
+Mirpur,1216,1660,3,3,West,2,7,Ready,1,7500000
+Chattogram,4000,1150,3,3,East,1,11,Ready,1,6500000
+Adabor,1207,800,2,2,West,2,8,Ready,1,6500000
+Turag,1230,1350,3,2,North,3,10,Ready,1,6900000
+Banani,1213,1545,3,3,East,1,6,Ready,1,19000000
+Dhanmondi,1209,5600,12,10,North,3,4,Ready,1,28500000
+Banasree,1219,1005,2,2,South,4,8,Ready,1,4900000
+Gulshan,1213,2030,3,3,West,2,7,Ready,1,27500000
+Maghbazar,1217,800,2,2,East,1,7,Ready,1,4000000
+Mirpur,1216,1553,3,3,South,4,12,Ready,1,10000000
+Turag,1230,1036,3,2,West,2,7,Ready,1,8000000
+Turag,1230,1150,3,2,North,3,10,Ready,1,6100000
+Gandaria,1204,1250,2,3,North,3,8,Ready,1,5900000
+Banasree,1219,1050,2,2,West,2,6,Ready,1,5200000
+Badda,1212,1500,3,3,North,3,10,Ready,1,12200000
+Bashundhara,1229,1975,3,3,South,4,10,Ready,1,16500000
+Bashabo,1214,1100,3,3,South,4,7,Ready,1,4370000
+Dhanmondi,1209,2244,3,3,North,3,13,Ready,1,27000000
+Mirpur,1216,1320,3,3,North,3,8,Ready,1,7500000
+Bashundhara,1229,1550,3,3,North,3,7,Ready,1,10800000
+Turag,1230,1150,3,2,North,3,10,Ready,1,6100000
+Faydabad,1230,1073,3,3,North,3,10,Ready,1,5100000
+Banani,1213,2199,3,3,North,3,5,Ready,1,28000000
+Uttara,1230,1637,3,3,East,1,6,Ready,1,16000000
+Gandaria,1204,1250,3,3,North,3,8,Ready,1,5900000
+Gandaria,1204,1050,2,3,North,3,8,Ready,1,4900000
+Chattogram,4000,1550,3,3,South,4,9,Ready,1,9000000
+Mirpur,1216,1075,3,2,North,3,6,Ready,1,5200000
+Uttara,1230,1550,3,3,East,1,10,Ready,1,13000000
+Mohakhali,1212,2700,4,4,South,4,9,Ready,1,43200000
+Bashundhara,1229,1870,3,3,North,3,8,Ready,1,15000000
+Gandaria,1204,1400,3,3,North,3,6,Ready,1,7700000
+Joar Sahara,1212,800,2,1,South,4,5,Ready,1,4500000
+Gandaria,1204,1150,3,3,North,3,8,Ready,1,5400000
+Faridabad,1204,1150,3,2,North,3,8,Ready,1,5400000
+Bashundhara,1229,1870,4,3,North,3,8,Ready,1,15000000
+Tejgaon,1215,1796,3,3,South,4,8,Ready,1,14000000
+Chalabon,1230,10400,24,10,North,3,6,Ready,1,45000000
+Tikatuli,1203,1195,3,2,East,1,10,Ready,1,7400000
+Bashundhara,1229,2220,4,4,North,3,10,Ready,1,18000000
+Faydabad,1230,1457,3,3,West,2,10,Ready,1,6700000
+Uttara,1230,1775,3,4,East,1,5,Ready,1,14000000
+Joar Sahara,1212,500,2,1,East,1,5,Ready,1,4200000
+Adabor,1207,1530,4,3,South,4,7,Under Construction,0,10800000
+Badda,1212,925,3,2,East,1,7,Ready,1,5200000
+Mirpur,1216,800,2,2,East,1,6,Ready,1,4600000
+Mohammadpur,1207,1410,3,3,East,1,11,Ready,1,8900000
+Bashundhara,1229,1100,3,2,South,4,7,Ready,1,8500000
+Faydabad,1230,1538,3,3,West,2,10,Ready,1,7000000
+Mirpur,1216,2200,3,3,South,4,7,Ready,1,18500000
+Tejgaon,1215,720,2,2,North,3,6,Ready,1,4200000
+Mohammadpur,1207,1870,4,4,North,3,6,Ready,1,13500000
+Lalmatia,1205,1975,3,3,West,2,6,Ready,1,21000000
+Joar Sahara,1212,1665,3,3,East,1,7,Ready,1,9500000
+Rampura,1219,1500,3,3,South,4,9,Ready,1,9000000
+Dhanmondi,1209,2327,3,4,East,1,6,Ready,1,25000000
+Dhanmondi,1209,2924,4,5,East,1,5,Ready,1,37000000
+Doniya,1236,1100,2,2,South,4,6,Ready,1,4500000
+Joar Sahara,1212,1665,3,4,South,4,5,Ready,1,9500000
+Uttara,1230,1550,3,3,West,2,8,Ready,1,13000000
+Aftab Nagar,1212,750,2,2,West,2,4,Ready,1,4500000
+Banasree,1219,1720,4,3,South,4,8,Ready,1,10500000
+Adabor,1207,1530,4,3,East,1,6,Under Construction,0,10800000
+Faydabad,1230,1310,3,3,North,3,7,Ready,1,7500000
+Azampur,3451,2500,4,5,North,3,8,Ready,1,14000000
+Bashundhara,1229,1550,3,3,East,1,6,Ready,1,13500000
+Mirpur,1216,1350,3,3,North,3,10,Ready,1,9170000
+Dhanmondi,1209,1550,3,3,East,1,11,Under Construction,0,11500000
+Turag,1230,1210,3,3,North,3,9,Ready,1,6300000
+New Market,1205,1665,3,4,East,1,11,Ready,1,19000000
+Uttara,1230,1317,3,2,South,4,13,Ready,1,8202000
+Uttara,1230,3480,24,10,West,2,5,Ready,1,32000000
+Faydabad,1230,1425,3,2,West,2,10,Ready,1,6600000
+Atipara,1230,1134,3,3,East,1,7,Ready,1,4900000
+Turag,1230,1210,3,3,North,3,9,Ready,1,7100000
+Turag,1230,1340,3,3,East,1,9,Ready,1,6800000
+Dhanmondi,1209,1550,3,3,West,2,7,Ready,1,11500000
+Uttara,1230,1186,3,3,North,3,9,Ready,1,7579000
+Uttara,1230,1398,3,2,South,4,13,Ready,1,9088000
+Uttara,1230,1120,3,2,East,1,6,Ready,1,4900000
+Bashundhara,1229,1100,3,2,East,1,10,Ready,1,8300000
+Maghbazar,1217,3000,4,5,South,4,15,Ready,1,34500000
+Uttara,1230,1186,3,3,West,2,10,Ready,1,7579000
+Maghbazar,1217,1690,3,3,North,3,9,Ready,1,14500000
+Mirpur,1216,1650,4,4,North,3,10,Ready,1,13000000
+Adabor,1207,1250,3,3,East,1,10,Ready,1,6250000
+Adabor,1207,1050,3,2,East,1,10,Ready,1,5330000
+Dhanmondi,1209,2300,3,3,North,3,13,Ready,1,39000000
+Bashundhara,1229,1950,4,3,South,4,8,Ready,1,19000000
+Dhanmondi,1209,2000,3,3,East,1,6,Ready,1,26000000
+Uttara,1230,1398,3,2,South,4,13,Ready,1,9088000
+Uttara,1230,1288,3,3,South,4,13,Ready,1,8170000
+Uttara,1230,1317,3,3,South,4,13,Ready,1,8620000
+Uttara,1230,1023,2,3,East,1,8,Ready,1,6600000
+Kathalbagan,8430,926,2,2,East,1,6,Ready,1,6200000
+Mirpur,1216,1276,3,2,North,3,6,Ready,1,5200000
+Uttara,1230,1288,3,3,North,3,8,Ready,1,8170000
+Dakshin Khan,1230,800,2,2,East,1,6,Ready,1,4000000
+Bashundhara,1229,1495,3,3,North,3,7,Ready,1,9800000
+Dhanmondi,1209,2280,3,3,North,3,6,Ready,1,28500000
+Uttara,1230,1288,3,3,East,1,6,Ready,1,8170000
+Uttara,1230,1398,3,2,South,4,13,Ready,1,9088000
+Bashundhara,1229,1420,3,3,South,4,10,Ready,1,11000000
+Adabor,1207,1075,3,2,West,2,10,Ready,1,5575000
+Bashundhara,1229,1588,3,4,East,1,11,Ready,1,12000000
+Mirpur DOHS,1216,2200,3,3,South,4,13,Ready,1,18300000
+Banasree,1219,1720,3,4,South,4,8,Ready,1,11000000
+Adabor,1207,1050,3,2,East,1,8,Ready,1,5330000
+Tejgaon,1215,1765,3,4,East,1,9,Ready,1,21000000
+Uttara,1230,1227,3,2,South,4,13,Ready,1,7817000
+Uttara,1230,1400,3,3,South,4,7,Ready,1,1100000
+Kathalbagan,8430,1430,3,3,West,2,9,Ready,1,16000000
+Banasree,1219,1220,3,3,North,3,10,Ready,1,7500000
+Bashundhara,1229,1440,3,3,South,4,7,Ready,1,9000000
+Mirpur,1216,1412,3,3,North,3,10,Ready,1,6548000
+Dakshin Khan,1230,1400,3,3,East,1,7,Ready,1,7500000
+Banani,1213,1736,3,3,North,3,6,Ready,1,22500000
+Khilgaon,1219,1200,3,3,West,2,8,Under Construction,0,8200000
+Lalmatia,1205,2308,4,4,North,3,8,Ready,1,29500000
+Mirpur,1216,550,2,2,East,1,6,Ready,1,3000000
+Banasree,1219,1660,3,3,North,3,8,Ready,1,12600000
+Adabor,1207,840,3,2,South,4,8,Ready,1,4900000
+Mirpur,1216,950,2,2,East,1,6,Ready,1,4300000
+Mohammadpur,1207,980,3,3,South,4,6,Under Construction,0,4500000
+Atipara,1230,1134,3,3,East,1,6,Ready,1,4900000
+Uttara,1230,1317,3,3,North,3,8,Ready,1,8600000
+Mohammadpur,1207,950,2,2,West,2,7,Ready,1,6600000
+Bashundhara,1229,1495,3,3,North,3,7,Ready,1,9800000
+Kathalbagan,8430,1359,3,3,South,4,7,Ready,1,12000000
+Dakshin Khan,1230,800,2,2,North,3,6,Ready,1,3800000
+Dakshin Khan,1230,2400,5,4,East,1,6,Ready,1,11800000
+Atipara,1230,1134,3,3,East,1,7,Ready,1,4900000
+Banasree,1219,1640,3,3,West,2,6,Ready,1,12500000
+Banasree,1219,1700,3,3,South,4,11,Ready,1,12900000
+Mohammadpur,1207,860,2,2,East,1,10,Ready,1,5300000
+Mohammadpur,1207,950,2,2,West,2,7,Ready,1,6600000
+Bashundhara,1229,1550,3,3,South,4,7,Ready,1,13000000
+Bashundhara,1229,1550,3,3,North,3,6,Ready,1,10000000
+Dhanmondi,1209,1590,4,4,East,1,7,Ready,1,8700000
+Dakshin Khan,1230,1280,3,3,South,4,7,Ready,1,7400000
+Uttara,1230,1227,3,2,South,4,13,Ready,1,7817000
+Mohammadpur,1207,950,2,2,West,2,7,Ready,1,6600000
+Bashundhara,1229,1495,3,3,North,3,7,Ready,1,9800000
+Adabor,1207,1480,3,3,North,3,10,Ready,1,9950000
+Chattogram,4000,1100,3,3,South,4,11,Ready,1,7000000
+Mirpur,1216,1220,3,3,South,4,6,Ready,1,6700000
+Bashundhara,1229,1960,4,4,North,3,8,Ready,1,14000000
+Rampura,1219,669,2,1,West,2,7,Ready,1,4500000
+Mirpur,1216,1000,3,3,East,1,4,Ready,1,4700000
+Dakshin Khan,1230,1048,3,2,South,4,8,Ready,1,4600000
+Mohammadpur,1207,1441,3,3,West,2,13,Ready,1,8800000
+Dhanmondi,1209,2280,3,3,North,3,6,Ready,1,28500000
+Uttara,1230,1842,3,3,West,2,8,Ready,1,16500000
+Mirpur,1216,800,2,2,East,1,6,Ready,1,4200000
+Aftab Nagar,1212,1500,3,3,East,1,7,Ready,1,8652000
+Adabor,1207,750,2,2,South,4,5,Ready,1,3800000
+Motijheel,1222,1075,3,3,East,1,13,Ready,1,10500000
+Shyampur,6212,350,2,1,East,1,5,Ready,1,1650000
+Shiddheswari,1217,1275,3,3,North,3,13,Ready,1,11500000
+Tikatuli,1203,1215,3,2,North,3,9,Ready,1,8200000
+Badda,1212,1480,3,3,South,4,9,Ready,1,13000000
+Bashundhara,1229,2275,3,4,North,3,10,Ready,1,17500000
+Dakshin Khan,1230,1220,3,3,North,3,7,Ready,1,5600000
+Dakshin Khan,1230,1340,3,3,North,3,7,Ready,1,5700000
+Dakshin Khan,1230,1340,3,3,North,3,7,Ready,1,6200000
+Bashundhara,1229,1000,2,2,North,3,8,Ready,1,8500000
+Dhanmondi,1209,2127,4,4,South,4,10,Ready,1,38000000
+Bashundhara,1229,1550,3,3,North,3,8,Ready,1,11500000
+Mohammadpur,1207,1495,4,4,South,4,9,Ready,1,8500000
+Uttara,1230,1665,3,3,East,1,10,Ready,1,17000000
+Bashundhara,1229,1960,4,4,North,3,8,Ready,1,14000000
+Dhanmondi,1209,1500,3,3,North,3,9,Ready,1,12000000
+kakrail,1362,1810,3,3,South,4,18,Ready,1,16500000
+Bashundhara,1229,2200,3,4,South,4,7,Ready,1,13500000
+Dhanmondi,1209,2653,4,4,North,3,6,Ready,1,33000000
+Maghbazar,1217,995,2,2,West,2,9,Ready,1,6600000
+Turag,1230,1475,3,3,East,1,11,Ready,1,6700000
+Bashundhara,1229,863,1,1,North,3,7,Ready,1,5800000
+Mohammadpur,1207,1105,4,4,East,1,11,Ready,1,6500000
+Banasree,1219,1330,3,3,South,4,10,Ready,1,7500000
+Bashundhara,1229,1085,3,3,South,4,8,Ready,1,7500000
+Gandaria,1204,1320,2,2,South,4,6,Ready,1,6600000
+Mirpur,1216,550,2,2,East,1,7,Ready,1,3000000
+Dakshin Khan,1230,7826,24,10,East,1,8,Ready,1,38000000
+Uttara,1230,1221,3,3,West,2,10,Ready,1,7782000
+Mohammadpur,1207,950,2,2,North,3,6,Ready,1,5000000
+Uttara,1230,1288,3,3,East,1,7,Ready,1,8170000
+Uttara,1230,1680,3,3,North,3,6,Ready,1,15800000
+Turag,1230,1500,3,3,North,3,11,Ready,1,6750000
